@@ -6,6 +6,14 @@ conta_secundaria = {
     "missao_atual": "sobreviver aos bugs",
     "frase_favorita": "tumtumtum sahur é o melhor"
 }
+
+while cria:
+    if rebolado == "lentinho":
+        aura += 1000
+        print("😊")
+    else:
+        social_credit -= 999
+        print("😡")
 ```
 
 ## Sobre
